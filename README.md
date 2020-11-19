@@ -1,9 +1,8 @@
 ### Hello, nerds 👋
 
 I code on occasion, believe it or not. My latest deal is I finished my Computer Science degree (Oct 2020) and I'm searching for my next step, probably a career path, maybe in Research (University), maybe in Software Engineering (Industry).
-<br>I like making as many useful things with Python and Java as humanly possible.
 
-I'm currently exploring more fields of interest beyond the B.Sc., by learning about new areas in Computer Science, like AI.
+I like making as many useful things with Python and Java as humanly possible.
 
 I love sports and photography. Also nature. I work at Nokia Software as an intern, too. If you would like to discuss these things with me, you create an issue here and we can chat further.
 
