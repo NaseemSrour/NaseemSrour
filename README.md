@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello, nerds 👋
+
+I code on occasion, believe it or not. My latest deal is I finished my Computer Science degree (Oct 2020) and I'm searching for my next step, probably a career path, maybe in Research (University), maybe in Software Engineering (Industry).
+I like making as many useful things with Python and Java as humanly possible.
+
+I'm currently exploring more fields of interest by learning about new areas in Computer Science, and AI grabbed my attention.
+
+I love sports and photography. Also nature. I work at Nokia Software as an intern, too. If you would like to discuss these things with me, you can find more info on my humble [website](https://naseemsr.wixsite.com/naseem).
+
 
 <!--
 **NaseemSrour/NaseemSrour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
