@@ -4,7 +4,7 @@ I code on occasion, believe it or not. My latest deal is I finished my Computer 
 
 I like making as many useful things with Python and Java as humanly possible.
 
-I love sports and photography. Also nature. I work at Nokia Software as an intern, too. If you would like to discuss these things with me, you create an issue here and we can chat further.
+I love sports and photography. Also nature. I work at Nokia Software as an intern, too. If you would like to discuss these things with me, you create an issue [here](https://github.com/NaseemSrour/NaseemSrour) and we can chat further.
 
 
 <!--
