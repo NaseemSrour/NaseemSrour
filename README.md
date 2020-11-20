@@ -1,6 +1,6 @@
 ### Hello, nerds 👋
 
-I code on occasion, believe it or not. My latest deal is I finished my Computer Science degree (Oct 2020) and I'm searching for my next step, a career path in Software Engineering (Industry) or in Research (University).
+I code on occasion, believe it or not. My latest deal is I finished my Computer Science degree (Oct 2020) and I'm searching for my next step, a career path in Software Engineering or Research (Industry/University).
 
 I like making as many useful things with Python and Java as humanly possible.
 
