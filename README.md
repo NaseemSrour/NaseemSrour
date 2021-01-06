@@ -4,7 +4,7 @@ I code often, believe it or not. My latest gig is I finished my Computer Science
 
 I like making as many useful things with Python and Java as humanly possible.
 
-I love sports and photography. Also nature. I work at Nokia Software as an intern, too :) If you would like to discuss these things with me, you create an issue [here](https://github.com/NaseemSrour/NaseemSrour)! Let's chat further!
+I love sports and photography. Also nature. I work at Nokia Software as an intern, too :) If you would like to discuss these things with me, you can create an issue [here](https://github.com/NaseemSrour/NaseemSrour) & we can chat further!
 
 
 <!--
