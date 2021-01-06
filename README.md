@@ -1,10 +1,10 @@
 ### Hello, nerds 👋
 
-I code on occasion, believe it or not. My latest gig is I finished my Computer Science degree (Oct 2020) and I'm searching for my next step, a career path in Software Engineering or Research (Industry/University).
+I code often, believe it or not. My latest gig is I finished my Computer Science degree (Oct 2020) and I'm searching for my next step, a career path in Software Engineering or Research (Industry/University).
 
 I like making as many useful things with Python and Java as humanly possible.
 
-I love sports and photography. Also nature. I work at Nokia Software as an intern, too :) If you would like to discuss these things with me, you create an issue [here](https://github.com/NaseemSrour/NaseemSrour) and we can chat further.
+I love sports and photography. Also nature. I work at Nokia Software as an intern, too :) If you would like to discuss these things with me, you create an issue [here](https://github.com/NaseemSrour/NaseemSrour) so we can chat further.
 
 
 <!--
