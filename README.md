@@ -1,7 +1,6 @@
 ### Hello, nerds 👋
 
-You've reached your destination!
-I'm Naseem, and my latest gig is I finished my Computer Science degree (Oct 2020) and I'm searching for my next step, a career path in Software Engineering or Research (Industry/University).
+I'm Naseem and my latest gig is I finished my Computer Science degree (Oct 2020) and I'm searching for my next step, a career path in Software Engineering or Research (Industry/University).
 
 I like making as many useful things with Python and Java as humanly possible.
 
