@@ -4,7 +4,7 @@
 A Computer Scientist from Tel-Aviv University.
 
 I like making as many useful things with Python and Java as humanly possible. <br>
-I currently work as a Software Engineer at J.P. Morgan :) <br> If you would like to discuss anything with me, you can create an issue [here](https://github.com/NaseemSrour/NaseemSrour) & we can chat further!
+<br> If you would like to discuss anything with me, you can create an issue [here](https://github.com/NaseemSrour/NaseemSrour) & we can chat further!
 
 
 <!--
